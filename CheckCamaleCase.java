@@ -1,5 +1,4 @@
 package New.folder;
-
 import java.util.Scanner;
 
 public class CheckCamaleCase {
