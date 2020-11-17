@@ -16,5 +16,4 @@ public class CheckCamaleCase {
         System.out.println(counter);
     }
     
-    
 }
