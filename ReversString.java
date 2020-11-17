@@ -20,9 +20,10 @@ public class ReversString {
 
 		int[] lastArray = new int[firstArray.length];
 		int lastArraylength = 0;
-	for (int j = firstArray.length - 1; j >= 0; j--) {
-		lastArray[lastArraylength] = firstArray[j];
-			lastArraylength++;
+		for (int j = firstArray.length - 1; j >= 0; j--) 
+		{
+		  lastArray[lastArraylength] = firstArray[j];
+		  lastArraylength++;
 		}
 		System.out.println(Arrays.toString(lastArray));
 	}
