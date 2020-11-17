@@ -1,5 +1,4 @@
 package New.folder;
-
 import java.util.Arrays;
 import java.util.Scanner;
 
