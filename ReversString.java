@@ -27,6 +27,5 @@ public class ReversString {
 		  }
 		System.out.println(Arrays.toString(lastArray));
      }
-
-    
+  
 }
