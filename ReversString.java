@@ -2,7 +2,6 @@ package New.folder;
 import java.util.Arrays;
 import java.util.Scanner;
 
-
 public class ReversString {
     
     public static void main(String[] args) {
