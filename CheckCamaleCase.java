@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class CheckCamaleCase {
     public static void main(String[] args) {
         Scanner scanner =new Scanner(System.in);
-        
         System.out.println("Enter String a cammel case:");
         String s =scanner.nextLine();
         int counter =1;
