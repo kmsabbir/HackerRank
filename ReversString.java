@@ -12,11 +12,11 @@ public class ReversString {
 		int n = myObj.nextInt();
 		int[] firstArray = new int[n];
 		
-	for (int i = 0; i < n; i++) 
-			{ 
+		for (int i = 0; i < n; i++) 
+		    { 
 		
-			firstArray[i] = myObj.nextInt();
-		     }
+		     firstArray[i] = myObj.nextInt();
+		    }
 
 		int[] lastArray = new int[firstArray.length];
 		int lastArraylength = 0;
